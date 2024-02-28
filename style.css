@@ -20,6 +20,12 @@
     max-width:50px;
 }
 
+.info {
+    text-align: center;
+    font-size: 50px;
+    color:rgb(16, 129, 91);
+}
+
 p.small img {
     max-width: 100px; /* Adjust the size as needed */
 }
@@ -27,6 +33,12 @@ p.small img {
 p.small2 img {
     max-width: 100px; /* Adjust the size as needed */
 }
+
+p.small3 img{
+    max-width:100px;
+}
+
+
     
 .small {
     position: fixed;
@@ -37,12 +49,19 @@ p.small2 img {
 .small2 {
     position: fixed;
     top:100px;
-    left:10px
+    left:10px;
+}
+
+.small3 {
+    position: fixed;
+    top:200px;
+    left:10px;
 }
 
 img {
-    border-radius: 50%;
-    max-width:500px;
+    border-radius: 10%;
+    max-width:900px;
+    max-height: 900;
 }
 
 a img {
