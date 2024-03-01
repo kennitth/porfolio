@@ -69,5 +69,5 @@ a img {
 }
 
 body {
-    gradient-image(pink,red);
+    background-image(pink,red);
 }
