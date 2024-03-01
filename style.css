@@ -69,5 +69,5 @@ a img {
 }
 
 body {
-    background-image(pink,red);
+    background-image: linear-gradient(pink,red);
 }
